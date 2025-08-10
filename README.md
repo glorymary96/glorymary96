@@ -14,4 +14,4 @@
 - [**Robustness of Democratic Electoral Process**](https://github.com/glorymary96/Robustness-of-Democratic-Electoral-Process) – Simulation of opinion dynamics in elections.
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/glorymarygivi)
+- [LinkedIn](https://www.linkedin.com/in/glory-mary-givi/)
