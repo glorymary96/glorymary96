@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Glory Mary Givi
 
-<!--
-**glorymary96/glorymary96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist | Mathematical Physics PhD | Quantitative Researcher**
 
-Here are some ideas to get you started:
+- 🔍 I specialize in **data science**, **machine learning**, and **quantitative modelling**.
+- 📊 Experience in **commodities, weather forecasting, yield prediction,** and **financial markets**.
+- 🛠️ Skilled in **Python**, **SQL**, **PySpark**, **Power BI**, and **statistical modelling**.
+- 🌍 Languages: English (native), French (B2), German (A1), Malayalam (native).
+- 📈 Passionate about leveraging **data-driven insights** to improve decision-making and P&L.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- [**Yield Prediction Model**](https://github.com/glorymary96/Yield-Prediction-Model) – ML model for agricultural yield forecasting from NOAA weather data.
+- [**Commodity Pricing Model**](https://github.com/glorymary96/Commodity-Pricing-Model) – Time-series analysis & seasonality detection.
+- [**Robustness of Democratic Electoral Process**](https://github.com/glorymary96/Robustness-of-Democratic-Electoral-Process) – Simulation of opinion dynamics in elections.
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/glorymarygivi)
